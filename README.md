@@ -18,4 +18,4 @@
 >
 > [PyTorch](pytorch.org), a simplistic machine learning framework in Python based on the Torch library
 >
-> (C++)[isocpp.org], a high-level general purpose language boasted for it's excellent performance and efficiency
+> [C++](isocpp.org), a high-level general purpose language boasted for it's excellent performance and efficiency
