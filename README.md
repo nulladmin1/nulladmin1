@@ -10,7 +10,7 @@
 
 
 ### Technologies I'm currently learning:
-> [Flet](flet.dev), a framework built with Flutter
+> [Kivy](kivy.org), a cross-patform GUI framework coded in Python
 > 
 > [Rust](rust-lang.org), a programming language emphasizing performance, type safety, and concurrency
 >
