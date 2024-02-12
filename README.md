@@ -5,6 +5,8 @@
 > Living in: USA 🇺🇸
 > 
 > Birthday: 2/14/2009
+>
+> I use NixOS BTW [<img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg" height=24em align="center" title="NixOS Logo" alt="NixOS Logo"/>](nixos.org)
 
 
 ### Technologies I'm currently learning:
