@@ -16,7 +16,10 @@
 >
 > [ <img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg" height=18em align="center" title="NixOS Logo" alt="NixOS Logo"/>  Nix](nixos.org), a declarative package manager emphasizing reproducibility and reliability with a functional language of the same name
 >
+> [ <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height=18em align="center" title="PyTorch Logo" alt="PyTorch Logo"/>  PyTorch](pytorch.org), a simplistic machine learning framework in Python based on the Torch library
+>
+
+### Technologies I'm decent at:
 > [ <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height=18em align="center" title="Git SCM Logo" alt="Git SCM Logo"/>  Git](git-scm.com), a simple, popular distributed version control system created by Linus Torvalds
 >
-> [ <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height=18em align="center" title="PyTorch Logo" alt="PyTorch Logo"/>  PyTorch](pytorch.org), a simplistic machine learning framework in Python based on the Torch library
-
+> [ <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height=18em align="center" title="Python Logo" alt="Python Logo"/>  Python](python.org), a high-level, dynamic, interpreted programming language known for its simplicity and readability
