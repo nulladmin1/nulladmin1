@@ -6,13 +6,13 @@
 > 
 > Birthday: 2/14/2009
 >
-> I use NixOS BTW [<img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg" height=24em align="center" title="NixOS Logo" alt="NixOS Logo"/>](https://nixos.org) since: `14:04:09 Jan 15, 2024`
+> I use NixOS BTW [<img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake-colours.svg" height=24em align="center" title="NixOS Logo" alt="NixOS Logo"/>](https://nixos.org) since: `14:04:09 Jan 15, 2024`
 
 
 ### Technologies I'm currently learning:
 > [ <img src="http://rust-lang.org/logos/rust-logo-16x16.png" align="center" title="Rust Lang Logo" alt="Rust Lang Logo"/>  Rust](rust-lang.org), a programming language emphasizing performance, type safety, and concurrency
 >
-> [ <img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake.svg" height=18em align="center" title="NixOS Logo" alt="NixOS Logo"/>  Nix](nixos.org), a declarative package manager emphasizing reproducibility and reliability with a functional language of the same name
+> [ <img src="https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake-colours.svg" height=18em align="center" title="NixOS Logo" alt="NixOS Logo"/>  Nix](nixos.org), a declarative package manager emphasizing reproducibility and reliability with a functional language of the same name
 >
 
 ### Technologies I'm decent at:
