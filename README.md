@@ -1,4 +1,7 @@
 # Hi there! I'm Shrey Deogade, aka ```nulladmin1```
+
+[![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=nulladmin1&theme=catppuccin_mocha&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About me:
 > Currently `15`
 >
